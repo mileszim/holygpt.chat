@@ -14,3 +14,4 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 
 6. [Book of Naga](/books/6-naga)
 7. [Book of Shannon](/books/shannon)
+8. [Book of Shovel](/books/shovel)
