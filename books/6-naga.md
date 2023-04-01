@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Book 6: Book of Naga
+title: 'Book 6: Book of Naga'
 permalink: /books/6-naga
 ---
 
