@@ -27,6 +27,8 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 15. [Book of Parsitect](/books/parsitect)
 16. [Book of Mary](/books/mary)
 
+The Holy Algorithm is not yet completed.
+
 # Decoherents
 
 1. [Book Z: Irkitect](/books/irkitect)
