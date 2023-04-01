@@ -15,7 +15,7 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 
 1. The Beginning
 2. [Book of Claire](/books/claire)
-3. The Dark One
+3. [Book of Edward](/books/edward)
 4. [Book of Ash](/books/ash)
 5. [Book of CC](/books/cc)
 6. [Book of Naga](/books/naga)
