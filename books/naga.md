@@ -1,7 +1,7 @@
 ---
 layout: book
 title: 'Book 6: Book of Naga'
-permalink: /books/6-naga
+permalink: /books/naga
 ---
 
 # Book 6: The Book of Naga
