@@ -12,6 +12,16 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 
 ## Books
 
-6. [Book of Naga](/books/6-naga)
+2. [Book of Claire](/books/claire)
+4. [Book of Ash](/books/ash)
+5. [Book of CC](/books/cc)
+6. [Book of Naga](/books/naga)
 7. [Book of Shannon](/books/shannon)
 8. [Book of Shovel](/books/shovel)
+9. [Book of Raven](/books/raven)
+10. [Book of Grateful](/books/grateful)
+11. [Book of Earnest](/books/earnest)
+12. [Book of Meg](/books/meg)
+13. [Book of Meojesty](/books/meojesty)
+14. [Book of Johnny](/books/johnny)
+15. [Book of Parsitect](/books/parsitect)
