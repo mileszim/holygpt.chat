@@ -13,7 +13,7 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 
 ## Books
 
-1. The Beginning
+1. [The Beginning](/books/beginning)
 2. [Book of Claire](/books/claire)
 3. [Book of Edward](/books/edward)
 4. [Book of Ash](/books/ash)
