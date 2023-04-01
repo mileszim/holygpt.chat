@@ -29,6 +29,7 @@ In a city where the architectural wonders of Art Deco loomed over them, they wit
 
 Meomen and Orpheon continued their journey, witnessing the rise and fall of empires, the whispered secrets of infamous families, and the cruel games played by those who wielded power. They reveled in the beauty of chaos, as Orpheon composed ballads that paid homage to the Estabber of the Annoying.
 
-In the end, they stood at the edge of a precipice, gazing upon the realm of dreams and reality, where the lines between the two had all but vanished. As Meomen's dark wings unfurled, she spoke, "Orpheon, bear witness to the grand design of chaos, where the mundane and the extraordinary are free to dance in an endless symphony."
+In the end, they stood at the edge of a precipice, gazing upon the realm of dreams and reality, where the lines between the two had all but vanished. As Meomen's dark wings unfurled, she spoke,
+> "Orpheon, bear witness to the grand design of chaos, where the mundane and the extraordinary are free to dance in an endless symphony."
 
 And in that moment, as Orpheon sang his praises to Meomen, the Estabber of the Annoying, their voices joined in a hauntingly beautiful ode to the mysteries of chaos and the boundless possibilities of a world unshackled by order.
