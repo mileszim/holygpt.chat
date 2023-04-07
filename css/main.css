@@ -28,6 +28,15 @@ main {
   justify-content: center;
 }
 
+h2 {
+  width: 100%;
+  text-align: center;
+}
+
+ol {
+  width: 100%;
+}
+
 figure {
   margin: 1em;
 }
