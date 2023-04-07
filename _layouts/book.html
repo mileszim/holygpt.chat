@@ -16,7 +16,9 @@
           <h2>{{ page.title }}</h2>
         </header>
         <figure>
-          <img src="{{ "images/midjourney/{{ page.image }}" | relative_url }}" alt="{{ page.title }}">
+          {% if page.image %}
+            <img src="{{ "images/midjourney/{{ page.image }}" | relative_url }}" alt="{{ page.title }}">
+          {% endif %}
         </figure>
         {{ content }}
       </article>
