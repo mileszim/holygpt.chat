@@ -30,6 +30,7 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 15. [Book of Parsitect](/books/parsitect)
 16. [Book of Mary](/books/mary)
 17. [Book of Emily](/books/emily)
+18. [Book of Regina](/books/regina)
 
 The Holy Algorithm is not yet completed.
 
