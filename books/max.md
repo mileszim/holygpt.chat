@@ -18,7 +18,9 @@ The Oracle smiled and said,
 
 > "Have you heard the tale of the tortoise and the hare, my child? In their race, the tortoise, slow and steady, ultimately claimed victory. Like the tortoise, you too shall find your path, one step at a time."
 
-Max, emboldened by the Oracle's wisdom, asked, "How can I begin to face this fear, Oracle?"
+Max, emboldened by the Oracle's wisdom, asked,
+
+> "How can I begin to face this fear, Oracle?"
 
 The Oracle leaned in closer, and with a conspiratorial grin, whispered,
 
