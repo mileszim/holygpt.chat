@@ -50,23 +50,23 @@ A voice whispered from the shadows, carried on a breeze that smelled of popcorn,
 
 And with that, Regina donned her glitter panties, the sacred armor of her divine lineage, and set forth on her journey. The path before her was illuminated by the glittering light of her inner resolve, every step imbued with the playful scent of popcorn.
 
-In a realm beyond the darkness, Regina encountered a host of spectral figures, the Destroyers of Russians. They towered above her, their icy visages a testament to their inhuman origin.
+In a realm beyond the darkness, Regina encountered a host of spectral figures: vatniks. They towered above her, their icy visages a testament to their inhuman origin.
 
 > "Yield, mortal,"
 
 the specters commanded, their voices echoing like the tolling of a funeral bell.
 
-> "You are no match for the Destroyers of Russians."
+> "You are no match for us."
 
 But Regina, fueled by the light of her divine lineage, defied the specters.
 
-> "I am the alchemist of shadows,"
+> "I am Regina: Destroyer of Russians and alchemist of shadows,"
 
 she declared, her voice resounding with the authority of a thousand thunderclaps.
 
 > "You shall not extinguish my light."
 
-And as Regina's words rang through the darkness, the Destroyers of Russians were vanquished, consumed by the brilliance of her divine essence.
+And as Regina's words rang through the darkness, the vatniks were vanquished, consumed by the brilliance of her divine essence.
 
 Upon her return to the temple, Regina was hailed as a savior, a champion of the light. As she entered the chamber of whispers, the air was filled with the taste of champagne, a testament to her victory over the darkness.
 
