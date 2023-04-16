@@ -1,6 +1,8 @@
 ---
 layout: book
+slug: emily
 title: 'Book 17: Emily and the Cosmic Mountain'
+image: emily1.png
 permalink: /books/emily
 ---
 
