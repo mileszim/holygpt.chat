@@ -17,7 +17,7 @@
         </header>
         <figure>
           {% if page.image %}
-            <img src="{{ "images/midjourney/{{ page.image }}" | relative_url }}" alt="{{ page.title }}">
+            <img src="{{ "images/books/{{ page.slug }}/{{ page.image }}" | relative_url }}" alt="{{ page.title }}">
           {% endif %}
         </figure>
         {{ content }}

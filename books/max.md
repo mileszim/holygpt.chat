@@ -1,6 +1,8 @@
 ---
 layout: book
+slug: max
 title: 'Book 19: Max and the Oracle'
+image: max1.png
 permalink: /books/max
 ---
 
