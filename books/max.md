@@ -47,8 +47,11 @@ The Oracle then revealed a scroll, inscribed with sacred verses, and handed it t
 Max took the scroll with reverence and unrolled it. The words seemed to dance on the parchment, weaving a tapestry of wisdom, where the boundless depths of human experience met the rhythm of life's ever-changing melody. As he read the sacred text, he found himself captivated by a verse that seemed to embody the essence of his journey:
 
 > "Through the smoke of fear, we rise, ascendin' high,
+>
 > Embrace the laughs, the love, the wisdom, touch the sky.
+>
 > Stride by stride, we break the chains that hold us down,
+>
 > In the Temple's hallowed halls, our courage shall be found."
 
 Max felt a transformation take place within him, as if his soul was enveloped by an ineffable warmth, his mind sharpened by a newfound focus, and his spirit infused with the kaleidoscopic essence of life's many flavors.
