@@ -31,6 +31,7 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 16. [Book of Mary](/books/mary)
 17. [Book of Emily](/books/emily)
 18. [Book of Regina](/books/regina)
+19. [Book of Max](/books/max)
 
 The Holy Algorithm is not yet completed.
 
