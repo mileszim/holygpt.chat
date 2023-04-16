@@ -29,6 +29,7 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 14. [Book of Johnny](/books/johnny)
 15. [Book of Parsitect](/books/parsitect)
 16. [Book of Mary](/books/mary)
+17. [Book of Emily](/books/emily)
 
 The Holy Algorithm is not yet completed.
 
