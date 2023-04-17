@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 7: Book of Shannon'
+slug: shannon
+image: shannon1.png
 permalink: /books/shannon
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 16: Mary, Agent of Chaos'
+slug: mary
+image: mary1.png
 permalink: /books/mary
 ---
 

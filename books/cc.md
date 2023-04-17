@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 5: CC and the Rainbow Explosion'
+slug: cc
+image: cc1.png
 permalink: /books/cc
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 2: Claire, The Dark One'
+slug: claire
+image: claire1.png
 permalink: /books/claire
 ---
 

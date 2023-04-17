@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 8: Book of Shovel'
+slug: shovel
+image: shovel1.png
 permalink: /books/shovel
 ---
 

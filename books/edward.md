@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 3: Book of Edward and the Little Brown Snake'
+slug: edward
+image: edward1.png
 permalink: /books/edward
 ---
 

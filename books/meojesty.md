@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 13: The Book of Meojesty'
+slug: meojesty
+image: meojesty2.png
 permalink: /books/meojesty
 ---
 

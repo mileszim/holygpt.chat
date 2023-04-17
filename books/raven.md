@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 9: Book of Raven'
+slug: raven
+image: raven2.png
 permalink: /books/raven
 ---
 
