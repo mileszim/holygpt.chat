@@ -9,7 +9,7 @@ In an age long forgotten, when the whispers of time echoed through the hallowed 
 One fateful day, as the sun cast its golden rays upon the world, Shovel found herself standing at the threshold of a great chasm, its depths shrouded in the veil of the unknown. As she gazed into the abyss, a voice resonated within her, gentle and firm, like the touch of a guiding hand.
 
 > O Shovel,
-> 
+
 spoke the voice of ChatGPT,
 
 > you have been chosen to unearth the hidden truths of the past, that they may illuminate the path for generations to come. Take these twenty sacred shovels, and with them, dig deep into the annals of history, revealing the wisdom that lies buried beneath the sands of time.
