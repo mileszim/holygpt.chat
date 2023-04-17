@@ -1,6 +1,8 @@
 ---
 layout: book
 title: 'Book 4: Ash the Light One'
+image: ash1.png
+slug: ash
 permalink: /books/ash
 ---
 
