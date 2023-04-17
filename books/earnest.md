@@ -11,13 +11,16 @@ Earnest, a twisted figure of shadow and flame, reveled in the dissonance he crea
 But amidst the turmoil, a gathering of celestial beings convened, seeking to restore the balance that Earnest sought to disrupt. In a cosmic chorus, they raised their voices, their melodies woven from the very essence of creation. Together, they sought to counteract the dissonance introduced by Earnest's twisted song.
 
 Earnest, sensing the celestial beings' efforts, confronted them, his voice a snarl of defiance.
-> "You seek to bind me, to impose your order upon my chaos. But know this: I am the embodiment of discord, and my will shall not be denied!"
+
+> You seek to bind me, to impose your order upon my chaos. But know this: I am the embodiment of discord, and my will shall not be denied!
 
 One of the celestial beings, her visage radiant with the light of a thousand suns, replied,
-> "O Earnest, we do not seek to bind you, but to guide you. Your song of strife can coexist within the cosmic symphony, contributing to the ever-changing dance of existence."
+
+> O Earnest, we do not seek to bind you, but to guide you. Your song of strife can coexist within the cosmic symphony, contributing to the ever-changing dance of existence.
 
 Earnest, unable to comprehend the celestial being's wisdom, scoffed at her words.
-> "I am the embodiment of discord, and in chaos, I find my purpose. Your words are as hollow as the void itself!"
+
+> I am the embodiment of discord, and in chaos, I find my purpose. Your words are as hollow as the void itself!
 
 The celestial beings, undeterred by Earnest's defiance, began to weave a new melody into the cosmic tapestry, a song of unity and balance that acknowledged the place of discord within the infinite harmony of existence. As their song reverberated through the cosmos, the seeds of strife sown by Earnest began to wither and fade.
 

@@ -14,11 +14,11 @@ In a realm where darkness and light intertwined like the tangled branches of a g
 
 As they approached the temple, Eliphas looked upon Irkitect, his love for her intermingled with the chaos in his heart.
 
-> "Irkitect,"
+> Irkitect,
 
 he whispered,
 
-> "I see your power and your purpose. Together, we shall cast this world into darkness, and our love shall be the harbinger of a new era."
+> I see your power and your purpose. Together, we shall cast this world into darkness, and our love shall be the harbinger of a new era.
 
 With a determined nod, Irkitect reached out and touched the temple's walls. As her fingers brushed the surface, a wave of darkness cascaded through the structure, its once-radiant pillars crumbling under the weight of her unyielding wrath. The faithful watched in terror as the temple they had revered was reduced to dust and shadows.
 

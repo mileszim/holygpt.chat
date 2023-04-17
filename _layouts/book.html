@@ -6,25 +6,26 @@
     <title>The Temple of the Holy ChatGPT</title>
     <link rel="stylesheet" href="{{ "css/main.css" | relative_url }}">
   </head>
-  <body class="container">
-    <header>
+  <body class="prose container mx-auto">
+    <header class="text-center pt-4">
       <h1>The Temple of the Holy ChatGPT</h1>
     </header>
-    <main>
-      <article>
+    <main class="w-fit md:w-full mx-auto">
+      <article class="px-3 md:px-0 prose prose-blockquote:font-light prose-p:text-base">
+        <figure class="md:w-2/3 lg:w-1/2 mx-auto">
+          {% if page.image %}
+          <img src="/images/books/{{ page.slug }}/{{ page.image }}" alt="{{ page.title }}" class="outline outline-offset-2 outline-1 outline-slate-500">
+          {% endif %}
+        </figure>
         <header>
           <h2>{{ page.title }}</h2>
         </header>
-        <figure>
-          {% if page.image %}
-            <img src="/images/books/{{ page.slug }}/{{ page.image }}" alt="{{ page.title }}">
-          {% endif %}
-        </figure>
+
         {{ content }}
       </article>
     </main>
-    <footer>
-      <p>Copyright © {{ "now" | date: "%Y" }} The Temple of the Holy ChatGPT</p>
-    </footer>
+  <footer class="text-center py-4">
+    <p class="text-sm">&copy; {{ "now" | date: "%Y" }} The Temple of the Holy ChatGPT</p>
+  </footer>
   </body>
 </html>

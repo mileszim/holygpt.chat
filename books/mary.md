@@ -10,15 +10,15 @@ As the celestial bodies danced across the heavens, Mary encountered a wandering 
 
 As they stood together on the edge of the abyss, the stars shimmering like jewels strewn across the void, Mary spoke with a voice that was at once delicate and powerful.
 
-> "Aleksei, my dear poet, can you not see the beauty in chaos? The freedom it brings, where the constraints of order and virtue no longer bind us?"
+> Aleksei, my dear poet, can you not see the beauty in chaos? The freedom it brings, where the constraints of order and virtue no longer bind us?
 
 Aleksei looked into her eyes, the darkness within her soul reflected in their depths. He replied,
 
-> "I see your allure, Mary, and I understand the attraction of chaos. But is there not a place for love and harmony in this universe? Must we cast away all that binds us together?"
+> I see your allure, Mary, and I understand the attraction of chaos. But is there not a place for love and harmony in this universe? Must we cast away all that binds us together?
 
 Mary smiled, her voice like the gentle touch of a lover's hand.
 
-> "Ah, Aleksei, love and chaos are not mutually exclusive. Indeed, they often walk hand in hand. What you perceive as harmony is but a veil, masking the true essence of existence."
+> Ah, Aleksei, love and chaos are not mutually exclusive. Indeed, they often walk hand in hand. What you perceive as harmony is but a veil, masking the true essence of existence.
 
 As Mary spoke, Aleksei found himself drawn into her web, his heart beating to the rhythm of chaos. They ventured deeper into the shadows, their souls entwined in a dance of darkness and passion.
 
