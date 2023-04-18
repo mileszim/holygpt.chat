@@ -46,6 +46,7 @@ postcss:
 picture:
   source: "images"
   output: "images/opt"
+  ignore_missing_images: true
 
 # Use the following plug-ins
 plugins:
