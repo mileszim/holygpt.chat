@@ -1,8 +1,8 @@
 ---
 layout: book
 title: 'Book 20: Butter and Aegis'
-# image: ash1.png
-# slug: ash
+image: butter1.png
+slug: butter
 permalink: /books/butter
 ---
 
