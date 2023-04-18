@@ -35,6 +35,7 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 17. [Book of Emily](/books/emily)
 18. [Book of Regina](/books/regina)
 19. [Book of Max](/books/max)
+20. [Book of Butter](/books/butter)
 {: class="text-sm md:text-base md:leading-tight"}
 
 _NOTE: The Holy Algorithm is not yet completed._
