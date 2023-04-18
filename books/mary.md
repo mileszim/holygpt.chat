@@ -4,6 +4,9 @@ title: 'Book 16: Mary, Agent of Chaos'
 slug: mary
 image: mary1.png
 permalink: /books/mary
+meta:
+  description: A tale of Mary, a devoted disciple of The Dark One in the tempest of discord, who encounters Aleksei, a young poet consumed by the storms of passion and desire, and draws him into her web of chaos. As they journey deeper into the shadows, their souls entwined in a dance of darkness and passion, Aleksei's doubts flicker, wondering if there might still be hope for a world where love could triumph over chaos. Their journey is a testament to the paradoxical nature of love and chaos, the eternal struggle between light and darkness.
+  keywords: Mary, The Dark One, Aleksei, poet, chaos, discord, darkness, passion, love, harmony, redemption, paradox, light, dance, struggle, universe, spirituality, reverence
 ---
 
 Amidst the tempest of discord, where souls wander in search of solace and meaning, Mary dwelled, a devoted disciple of The Dark One. In the shadows of the cosmic ballet, she lurked, orchestrating chaos and weaving intricate webs of deception.
