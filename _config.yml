@@ -47,6 +47,7 @@ picture:
   source: "images"
   output: "images/opt"
   ignore_missing_images: true
+  suppress_warnings: true
 
 # Use the following plug-ins
 plugins:
