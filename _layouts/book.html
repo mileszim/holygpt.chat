@@ -14,7 +14,12 @@
       <article class="px-3 md:px-0 prose prose-blockquote:font-light prose-p:text-base">
         <figure class="md:w-2/3 sm:w-full mx-auto">
           {% if page.image %}
-          <img src="/images/books/{{ page.slug }}/{{ page.image }}" alt="{{ page.title }}" class="outline outline-offset-2 outline-1 outline-slate-500">
+          {%
+            picture
+            "books/{{ page.slug }}/{{ page.image }}"
+            --img class="outline outline-offset-2 outline-1 outline-slate-500"
+            --alt "{{ page.title }}"
+          %}
           {% endif %}
         </figure>
         <header>

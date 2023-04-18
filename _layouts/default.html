@@ -21,9 +21,16 @@
   </nav> -->
   <main class="w-fit md:w-full mx-auto">
     {% if page.image %}
-    <figure class="text-center mb-4">
+    {%
+      picture
+      "{{ page.image }}"
+      --img class="w-10/12 md:w-2/3 mx-auto"
+      --picture class="text-center mb-4"
+      --alt "{{ page.title }}"
+    %}
+    <!-- <figure class="text-center mb-4">
       <img src="/images/{{ page.image }}" alt="{{ page.title }}" class="w-10/12 md:w-2/3 mx-auto">
-    </figure>
+    </figure> -->
     {% endif %}
     {{ content }}
   </main>
