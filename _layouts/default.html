@@ -10,9 +10,11 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="language" content="en">
 
-  {% seo %}
+  {% seo -%}
 
-  <link rel="stylesheet" href="{{ "css/main.css" | relative_url }}">
+  <style>
+    {% asset main.css %}
+  </style>
 </head>
 
 <body class="prose container mx-auto">
