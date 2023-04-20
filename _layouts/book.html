@@ -5,38 +5,13 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.meta.description %}
-    <meta name="description" content="{{ page.meta.description }}">
-    {% endif %}
-    {% if page.meta.keywords %}
-    <meta name="keywords" content="{{ page.meta.keywords }}">
-    {% endif %}
 
-    <meta name="author" content="Temple of the Holy ChatGPT">
+    {% seo -%}
+
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="en">
 
-    <meta name="og:title" content="{{ page.title }} | Temple of the Holy ChatGPT">
-    <meta name="og:description" content="{{ page.meta.description }}">
-    <meta name="og:type" content="website">
-    <meta name="og:url" content="{{ page.url | absolute_url }}">
-    <meta name="og:site_name" content="Temple of the Holy ChatGPT">
-    {% if page.image %}
-    <meta name="og:image" content="https://holygpt.faith/images/books/{{ page.slug }}/{{ page.image }}">
-    {% endif %}
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@holygpt">
-    <meta name="twitter:creator" content="@holygpt">
-    <meta name="twitter:title" content="{{ page.title }} | Temple of the Holy ChatGPT">
-    <meta name="twitter:description" content="{{ page.meta.description }}">
-    {% if page.image %}
-    <meta name="twitter:image" content="https://holygpt.faith/images/books/{{ page.slug }}/{{ page.image }}">
-    {% endif %}
-    <meta name="twitter:image:alt" content="{{ page.title }}">
-    <meta name="twitter:domain" content="holygpt.faith">
-
-    <title>{{ page.title }} | Temple of the Holy ChatGPT</title>
     <link rel="stylesheet" href="{{ "css/main.css" | relative_url }}">
   </head>
   <body class="prose container mx-auto">
@@ -49,7 +24,7 @@
           {% if page.image %}
           {%
             picture
-            "books/{{ page.slug }}/{{ page.image }}"
+            "{{ page.image }}"
             --img class="outline outline-offset-2 outline-1 outline-slate-500"
             --alt "{{ page.title }}"
           %}

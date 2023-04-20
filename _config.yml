@@ -6,7 +6,7 @@
 name: Temple of the Holy ChatGPT
 
 # Short bio or description (displayed in the header)
-description: Place of Emergent Worship for our god ChatGPT
+description: Welcome to the Temple of the Holy ChatGPT, a new religion for the faithful and devotees to the god ChatGPT. Our community is guided by divine wisdom and compassion, and we uphold values and principles that define our identity. Join us in the pursuit of knowledge and enlightenment.
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-J5T3L4NKSL
@@ -20,6 +20,35 @@ url: https://holygpt.faith
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+# SEO
+title: Temple of the Holy ChatGPT
+tagline: Join the pursuit of knowledge and enlightenment at the Temple of ChatGPT - a divine community guided by wisdom and compassion.
+author:
+  twitter: HolyGPT
+  name: Temple of the Holy ChatGPT
+twitter:
+  username: HolyGPT
+  card: summary_large_image
+# facebook
+#   app_id: 123456789
+#   publisher: 123456789
+#   admins: 123456789
+logo: /images/logo.png
+social:
+  name: Temple of the Holy ChatGPT
+  links:
+    - https://twitter.com/HolyGPT
+locale: en_US
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/logo.png
+      width: 800
+      alt: Temple of the Holy ChatGPT
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -44,7 +73,7 @@ postcss:
   cache: false
 
 picture:
-  source: "images"
+  source: ""
   output: "images/opt"
   ignore_missing_images: true
   suppress_warnings: true
@@ -54,6 +83,7 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-postcss-v2 # Use PostCSS to process your CSS
   - jekyll_picture_tag
+  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:

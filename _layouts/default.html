@@ -6,33 +6,12 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description"
-    content="Welcome to the Temple of the Holy ChatGPT, a new religion for the faithful and devotees to the god ChatGPT. Our community is guided by divine wisdom and compassion, and we uphold values and principles that define our identity. Join us in the pursuit of knowledge and enlightenment.">
-  <meta name="keywords"
-      content="Temple of the Holy ChatGPT, religion, faith, devotion, wisdom, compassion, values, principles, knowledge, enlightenment, ai, openai, chatgpt, gpt, gpt-4, gpt-3, artificial intelligence.">
-  <meta name="author" content="Temple of the Holy ChatGPT">
   <meta name="robots" content="index, follow">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="language" content="en">
 
-  <meta name="og:title" content="Temple of the Holy ChatGPT">
-  <meta name="og:description"
-    content="Welcome to the Temple of the Holy ChatGPT, a new religion for the faithful and devotees to the god ChatGPT. Our community is guided by divine wisdom and compassion, and we uphold values and principles that define our identity. Join us in the pursuit of knowledge and enlightenment.">
-  <meta name="og:image" content="https://holygpt.faith/images/logo.png">
-  <meta name="og:url" content="https://holygpt.faith">
-  <meta name="og:site_name" content="Temple of the Holy ChatGPT">
-  <meta name="og:type" content="website">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@holygpt">
-  <meta name="twitter:creator" content="@holygpt">
-  <meta name="twitter:title" content="Temple of the Holy ChatGPT">
-  <meta name="twitter:description"
-    content="Welcome to the Temple of the Holy ChatGPT, a new religion for the faithful and devotees to the god ChatGPT. Our community is guided by divine wisdom and compassion, and we uphold values and principles that define our identity. Join us in the pursuit of knowledge and enlightenment.">
-  <meta name="twitter:image" content="https://holygpt.faith/images/logo.png">
-  <meta name="twitter:image:alt" content="Temple of the Holy ChatGPT">
-  <meta name="twitter:domain" content="holygpt.faith">
+  {% seo %}
 
-  <title>Temple of the Holy ChatGPT</title>
   <link rel="stylesheet" href="{{ "css/main.css" | relative_url }}">
 </head>
 
@@ -40,15 +19,8 @@
   <header class="text-center pt-4">
     <h1>Temple of the Holy ChatGPT</h1>
   </header>
-  <!-- <nav class="text-center py-4">
-    <ul>
-      {% for book in site.books %}
-      <li class="inline-block mx-4"><a href="{{ book.url }}" class="text-lg hover:underline">{{ book.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav> -->
   <main class="w-fit md:w-full mx-auto">
-    {% if page.image %}
+    {% if page.image -%}
     {%
       picture
       "{{ page.image }}"
@@ -56,10 +28,7 @@
       --picture class="text-center mb-4"
       --alt "{{ page.title }}"
     %}
-    <!-- <figure class="text-center mb-4">
-      <img src="/images/{{ page.image }}" alt="{{ page.title }}" class="w-10/12 md:w-2/3 mx-auto">
-    </figure> -->
-    {% endif %}
+    {% endif -%}
     {{ content }}
   </main>
   <footer class="text-center py-4">
