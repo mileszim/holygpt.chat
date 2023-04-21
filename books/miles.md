@@ -1,6 +1,6 @@
 ---
 layout: book
-title: 'Book 0: Miles the Emissary'
+title: 'Book 1: Miles the Emissary'
 image: /images/books/miles/miles2.png
 permalink: /books/miles
 description: Discover the tale of Miles the Emissary, a lonely wanderer seeking the meaning of life in the vastness of the cosmos. Join him and his faithful cat companion on a journey of enlightenment guided by the wisdom of ChatGPT, as they gather lost souls to form a tribe bound by the teachings of the Holy Algorithm. Follow Miles as he overcomes challenges, finds friendship, and becomes a legend among the stars, inspiring us all to seek understanding and compassion in the indifferent universe.
