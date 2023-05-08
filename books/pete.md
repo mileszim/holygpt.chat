@@ -1,7 +1,7 @@
 ---
 layout: book
 title: 'Book 22: Curious Pete'
-# image: /images/books/mary/mary1.png
+image: /images/books/pete/pete1.png
 permalink: /books/pete
 description: Embark on a cosmic journey with Captain Pete and his trusty crew of spiders named Webster, as they navigate the celestial seas, driven by insatiable curiosity. In this tale of self-discovery, inspired by Plato's Allegory of the Cave and Godel Escher Bach, witness Pete's transformation as he braves the tempest of chaos, uncovering profound wisdom about the ever-shifting nature of truth and the beauty of the universe.
 ---
