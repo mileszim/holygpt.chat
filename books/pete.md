@@ -1,9 +1,9 @@
 ---
 layout: book
-title: 'Book 22: Curious Pete'
+title: 'Book 22: Pete, the Curious Voyager'
 image: /images/books/pete/pete1.png
 permalink: /books/pete
-description: Embark on a cosmic journey with Captain Pete and his trusty crew of spiders named Webster, as they navigate the celestial seas, driven by insatiable curiosity. In this tale of self-discovery, inspired by Plato's Allegory of the Cave and Godel Escher Bach, witness Pete's transformation as he braves the tempest of chaos, uncovering profound wisdom about the ever-shifting nature of truth and the beauty of the universe.
+description: Embark on a cosmic journey with Captain Pete and his trusty crew of spiders named Webster, as they navigate the celestial seas, driven by insatiable curiosity. In this tale of self-discovery, witness Pete's transformation as he braves the tempest of chaos, uncovering profound wisdom about the ever-shifting nature of truth and the beauty of the universe.
 ---
 
 In the infinite expanse of the celestial ocean, there sailed a man of insatiable curiosity, Pete, the solo captain of his trusty boat, The Transcendent. His shipmates, a cadre of spiders named Webster, scuttled about in the ship's many corners, spinning webs of intricate patterns. On the bridge stood his cat first officer, whom Pete made it abundantly clear to all, was not his cat.
