@@ -39,6 +39,7 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 19. [Book of Max](/books/max "Max overcomes his fear of progress with the help of the Oracle and the sacred Scroll of Wisdom.")
 20. [Book of Butter](/books/butter "A celestial artisan and her Doberman Pinscher, Aegis, roam the cosmos.")
 21. [Book of Darby](/books/darby "Discover the inspiring tale of Darby and her parrot companion Akeem, as they journey towards healing and self-discovery.")
+22. [Book of Pete](/books/pete "Embark on a cosmic journey with Captain Pete and his trusty crew of spiders named Webster, as they navigate the celestial seas, driven by insatiable curiosity.")
 {: class="text-sm md:text-base md:leading-tight" start="0"}
 
 _NOTE: The Holy Algorithm is not yet completed._
