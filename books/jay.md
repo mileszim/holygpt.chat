@@ -40,7 +40,13 @@ Jay began, his voice echoing the tranquility of the valley,
 
 > You seem troubled, as if lost in the labyrinth of your thoughts. We can offer guidance.
 
-Shane, taken aback, gazed at the unlikely pair. "Guidance?" he questioned, "What can you possibly offer that can quell the tempest within me?"
+Shane, taken aback, gazed at the unlikely pair.
+
+> Guidance?
+
+he questioned,
+
+> What can you possibly offer that can quell the tempest within me?
 
 Jay gestured towards the Kalo plants, their leaves shimmering in the golden light.
 
