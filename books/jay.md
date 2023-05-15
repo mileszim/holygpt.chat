@@ -1,7 +1,7 @@
 ---
 layout: book
 title: 'Book 23: Jay & Soul of the Kalo Plant'
-# image: /images/books/ash/ash1.png
+image: /images/books/jay/jay1.png
 permalink: /books/jay
 description: Embark on a profound journey of self-discovery and enlightenment in Jay & Soul of the Kalo Plant. Guided by the wisdom of the sacred Kalo plants, Jay and his loyal companion Carlito explore the power of the aina, the land, to bridge the gap between humanity and nature. Witness their quest to awaken latent abilities, share ancient revelations, and guide others towards unity with the cosmos. A captivating tale that ignites the spirit of aloha and inspires a deep connection with the world around us.
 ---
