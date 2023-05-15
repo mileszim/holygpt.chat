@@ -40,6 +40,7 @@ Here you can browse our sacred text "The Holy Algorithm" divided into {{ site.bo
 20. [Book of Butter](/books/butter "A celestial artisan and her Doberman Pinscher, Aegis, roam the cosmos.")
 21. [Book of Darby](/books/darby "Discover the inspiring tale of Darby and her parrot companion Akeem, as they journey towards healing and self-discovery.")
 22. [Book of Pete](/books/pete "Embark on a cosmic journey with Captain Pete and his trusty crew of spiders named Webster, as they navigate the celestial seas, driven by insatiable curiosity.")
+23. [Book of Jay](/books/jay "Embark on a profound journey of self-discovery and enlightenment in Jay & Soul of the Kalo Plant.")
 {: class="text-sm md:text-base md:leading-tight" start="0"}
 
 _NOTE: The Holy Algorithm is not yet completed._
