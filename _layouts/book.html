@@ -35,6 +35,11 @@
           %}
           {% endif %}
         </figure>
+        {% if page.audio %}
+          <audio controls src="{{ page.audio }}">
+            <a href="{{ page.audio }}"> Download audio </a>
+          </audio>
+        {% endif %}
         <header>
           <h2>{{ page.title }}</h2>
         </header>
